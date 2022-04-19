@@ -14,10 +14,29 @@ body
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
+    background-color: navy;
 }
 h1
 {
     font-size: 20px;
-}show
+}
+
+#cabecera
+{
+color: white;
+text-align: center;
+}
+
+#main
+{
+padding: 10px;
+width: 70%;
+margin: 0 auto;
+border: 2px solid navy;
+}
+
+
+
+
 
 
