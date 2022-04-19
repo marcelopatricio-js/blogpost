@@ -15,9 +15,17 @@ body
     border: 1px solid #DDD;
     margin: 0 auto;
 }
+
 h1
 {
     font-size: 20px;
-}show
+}
 
+#main
+{
+padding: 10px;
+width: 70%;
+margin: 0 auto;
+border: 2px solid navy;
+}
 
